@@ -9,7 +9,7 @@ def my_func(a, b, c):
     elif d==0:
         return 'x=', -b/2*a
     else:
-        return 'корней нет'
+        return 'kornei net'
 
 
 print(my_func(3, 15, 5))
