@@ -1,5 +1,3 @@
-# решение квадратного уравнения через дискриминант
-
 def my_func(a, b, c):
     print('equation:', a,'*x2+', b, '*x+', c)
     d = b**2 - 4*a*c
@@ -15,4 +13,3 @@ def my_func(a, b, c):
 print(my_func(3, 15, 5))
 print(my_func(1, 2, 1))
 print(my_func(1, 1, 1))
-
